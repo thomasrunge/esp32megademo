@@ -32,7 +32,12 @@ A collection of classic demo effects (starfield, vectorballs, scroller, image ro
 The algorithms for these effects are sourced from: [flightcrank/demo-effects](https://github.com/flightcrank/demo-effects)
 
 ## Screenshots
+
 ![Screenshot](screenshot.jpg)
+
+### Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/JP1PaqqjuUI/0.jpg)](https://youtu.be/JP1PaqqjuUI)
 
 ## License
 This project is for educational and demonstration purposes. See [flightcrank/demo-effects](https://github.com/flightcrank/demo-effects) for original effect code licensing. 
